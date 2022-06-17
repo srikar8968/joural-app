@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.home-wrapper {
+	background-image: url('/images/home-backdrop-1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-position: center;
+}
